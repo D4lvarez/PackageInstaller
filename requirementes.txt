@@ -1,11 +1,3 @@
-certifi==2019.9.11
-Click==7.0
-Django==2.2.6
-Flask==1.1.1
-itsdangerous==1.1.0
-Jinja2==2.10.3
-MarkupSafe==1.1.1
-Pillow==6.2.0
 pipenv==2018.11.26
 PyQt5==5.13.1
 PyQt5-sip==4.19.19
@@ -13,4 +5,3 @@ pytz==2019.2
 sqlparse==0.3.0
 virtualenv==16.7.5
 virtualenv-clone==0.5.3
-Werkzeug==0.16.0
