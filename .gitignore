@@ -1,0 +1,8 @@
+# Ignore everything in this directory
+venv/
+__pycache__/
+.idea/
+*.ui
+*.pyc
+# Except this file
+!.gitignore
